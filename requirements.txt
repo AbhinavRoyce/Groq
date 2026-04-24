@@ -1,3 +1,6 @@
-dotenv
-os
 langchain
+python-dotenv
+groq
+langchain-groq
+ipykernel
+huggingface
